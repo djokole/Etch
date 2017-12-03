@@ -15,7 +15,7 @@ function buildGrid (numsq) {
             $(".grid").append("<div class='unit'></div>");
         };
     };
-    var usize = (960 - numsq * 2) / numsq
+    var usize = (700 - numsq * 2) / numsq
     
     $('.unit').css({'width': usize,
 		'height': usize	

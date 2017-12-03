@@ -1,13 +1,13 @@
 .grid {
-	width: 960px;
-	height: 960px;
+	width: 700px;
+	height: 700px;
 	margin: auto;
 	position: relative;
 	bottom: -10px;
 	background-color: #f0f0f0;
 }
 html {
-	background-color: #ffcc66;
+	background-color: #9999ff;
 }
 .unit {
 	border-style: solid;
@@ -22,55 +22,55 @@ html {
 }
 
 #clearbt {
-	width: 120px;
-	height: 60px;
+	width: 100px;
+	height: 50px;
 	border-width: 1px;
-	border-color: black;
-	color: #4d3300;
+	border-color: #000033;
+	color: #000033;
 	text-align: center;
 	margin-bottom: 20px;
-	font-size: 24px;
+	font-size: 20px;
 	border-radius: 25px;
 	font-style: bold;
 	float: right;
 }
 
 #sizebt {
-	width: 120px;
-	height: 60px;
+	width: 100px;
+	height: 50px;
 	border-width: 1px;
-	border-color: black;
-	color: #4d3300;
+	border-color: #000033;
+	color: #000033;
 	text-align: center;
 	margin-bottom: 20px;
-	font-size: 24px;
+	font-size: 20px;
 	border-radius: 25px;
 	font-style: bold;
 	float: left;
 
 }
 #colorbt {
-	width: 120px;
-	height: 60px;
+	width: 100px;
+	height: 50px;
 	border-width: 1px;
-	border-color: black;
-	color: #4d3300;
+	border-color: #000033;
+	color: #000033;
 	text-align: center;
 	margin-bottom: 20px;
-	font-size: 24px;
+	font-size: 20px;
 	border-radius: 25px;
 	font-style: bold;
 	float: right;
 }
 #blackbt {
-	width: 120px;
-	height: 60px;
+	width: 100px;
+	height: 50px;
 	border-width: 1px;
-	border-color: black;
-	color: #4d3300;
+	border-color: #000033;
+	color: #000033;
 	text-align: center;
 	margin-bottom: 20px;
-	font-size: 24px;
+	font-size: 20px;
 	border-radius: 25px;
 	font-style: bold;
 	float: left;
@@ -84,19 +84,19 @@ html {
 h1 {
 	text-align: center;
 	font-size: 50px;
-	color: #4d3300;
+	color: #000033;
 }
 div #buttons1{
-	margin-left: 200px;
+	margin-left: 300px;
 	position: relative;
-	width: 400px;
+	width: 300px;
 	height: 80px;
 	display: inline-block;
 }
 div #buttons2{
 	margin-left: 100px;
 	position: relative;
-	width: 400px;
+	width: 300px;
 	height: 80px;
 	display: inline-block;
 }
